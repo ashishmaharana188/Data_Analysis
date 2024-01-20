@@ -1,6 +1,6 @@
 # Data_Analysis
 
 This Repository contains projects on data analysis using tools like SQL, Microsoft Excel, Python and compatible libraries.
-
-1. House_Sales dataset analysed using regression models.
-2. Loan default prediction uses Machine Learning on dataset to predict loan default probability.
+1. Extract gdp values from website and run a sql query on them.
+2. House_Sales dataset analysed using regression models.
+3. Loan default prediction uses Machine Learning on dataset to predict loan default probability.
